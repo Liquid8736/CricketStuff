@@ -12,6 +12,7 @@ Can do calculate the following stuffs:
 * Required Run Rate
 * Projected Score
 * Strike Rate
+* Bowler Average
 
 ## Getting Started
 ### Requirements
@@ -24,7 +25,7 @@ Can do calculate the following stuffs:
 * Any IDE/IDLE
 
 ### How to run
-Just fire the name
+Just fire the file name
 ```
 main.cpp
 ``` 
